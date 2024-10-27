@@ -10,8 +10,9 @@ During my internships at Star Assurances and SRA Integration, I successfully dev
 I thrive in dynamic environments where I can leverage my technical expertise in programming languages like Python, Java, and SQL, along with my knowledge of Big Data technologies such as Hadoop and Spark. Committed to continuous learning and innovation, I am excited about the potential of data-driven solutions to transform businesses and enhance decision-making processes.
 
 In addition to my technical capabilities, I am known for my adaptability, critical thinking, and collaborative spirit, making me a valuable asset to any team. I am eager to contribute to projects that prioritize user needs and drive positive outcomes in the realm of Business Intelligence.
-Front-End Development: Angular![icons8-angular-48](https://github.com/user-attachments/assets/8f54ce67-f6b7-486a-ba8a-86076b10592e)
-, React, Symfony 5
+Front-End Development: Angular![icons8-angular-48](https://github.com/user-attachments/assets/8f54ce67-f6b7-486a-ba8a-86076b10592e), React![icons8-react-30](https://github.com/user-attachments/assets/f2c89dcd-56bd-4bdd-8170-4121252c787e)
+, Symfony 5![icons8-symfony-48](https://github.com/user-attachments/assets/77e5b728-615e-43eb-a378-b5a33a71d8ec)
+
 Back-End Development: Node.js, Spring Boot,.NET
 Data Engineering: SQL Server, PostgreSQL, MongoDB, Hadoop, Spark
 BI & Data Visualization: Power BI, Tableau, Apache Superset, Excel
