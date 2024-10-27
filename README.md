@@ -32,5 +32,8 @@ GitHub: https://github.com/SlimDrira
 LinkedIn: https://www.linkedin.com/in/slim-drira/ 
 Email: slimdrira0@gmail.com
 Phone : +21658412071
+
+
+
 ⚡ Fun Facts:
 Outside the data engineering world, I’m passionate about music production and collaborating on creative side projects! 🎵
